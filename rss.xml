@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The FeedWhack]]></title>
         <description><![CDATA[The FeedWhack]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-feedwhack/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 Nov 2015 08:31:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 Nov 2015 08:31:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-feedwhack/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The FeedWhack]]></title>
             <description><![CDATA[<article><h1>The FeedWhack</h1><p>Striking suggestions!</p></article>]]></description>
-            <link>undefinedthe-feedwhack/index.html</link>
+            <link>https://thegrid.ai/the-feedwhack/the-feedwhack/index.html</link>
             <guid isPermaLink="false">c0099254-3f64-4f4a-a1b4-c0ed8b0f43af</guid>
-            <pubDate>Fri, 20 Nov 2015 08:29:37 GMT</pubDate>
+            <pubDate>Fri, 20 Nov 2015 08:29:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
