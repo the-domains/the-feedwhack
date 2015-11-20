@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The FeedWhack]]></title>
+        <description><![CDATA[The FeedWhack]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 20 Nov 2015 08:31:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The FeedWhack]]></title>
+            <description><![CDATA[<article><h1>The FeedWhack</h1><p>Striking suggestions!</p></article>]]></description>
+            <link>undefinedthe-feedwhack/index.html</link>
+            <guid isPermaLink="false">c0099254-3f64-4f4a-a1b4-c0ed8b0f43af</guid>
+            <pubDate>Fri, 20 Nov 2015 08:29:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
